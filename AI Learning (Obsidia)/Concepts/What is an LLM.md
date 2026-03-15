@@ -1,0 +1,2 @@
+LLM is a Large Language Model
+LLM is behind the scenes of the AI model such as Chatgpt, Claude, copilot, etc. LLM is good at understanding and generating human like text because the large amount of the data already trained in behind the scenes. They don't memorize answers, but theyre understanding the pattern of the questions using the data. And they collect data from the books, articles, etc. and LLM can be used to answer questions, help coding, translating texts.
