@@ -1,5 +1,26 @@
-My name is Darren William
-I attend APU for my college
-I love to play games and talk to my friends
-I'm currently studying AI and im taking AI Major
-Also, i'm seeking an internship at July 2026
+Name: Darren William
+University: Asia Pacific University of Technology & Innovation (APU)
+Degree: Bachelor of Computer Science (Hons) in Artificial Intelligence
+Internship availability: July 2026
+Location: Kuala Lumpur, Malaysia
+Contact: dwilliam1412@gmail.com
+
+Skills:
+- Python
+- Groq API
+- LangChain
+- AI Agents
+- RAG systems
+- Prompt Engineering
+- Git and GitHub
+
+Projects:
+- Built a chatbot with memory using LangChain
+- Built an AI agent that searches the web
+- Built a RAG system that reads documents
+- Built a personal AI assistant combining all skills
+
+Goals:
+- Find an AI/ML internship starting July 2026
+- Learn cloud deployment
+- Build more AI projects
