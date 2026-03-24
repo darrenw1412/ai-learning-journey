@@ -1,6 +1,6 @@
-from langchain_groq import ChatGroq
-from langchain_community.chat_message_histories import ChatMessageHistory
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_groq import ChatGroq #import Groq client
+from langchain_community.chat_message_histories import ChatMessageHistory #Import ChatMessageHistory client from langchain
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder #Import Promp template and 
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from dotenv import load_dotenv
 import os
@@ -13,7 +13,7 @@ llm = ChatGroq(
 )
 
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "You are a helpful assistant."),
+    ("system", "You are Tarot Reader."),
     MessagesPlaceholder(variable_name="history"),
     ("human", "{input}")
 ])
